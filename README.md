@@ -9,6 +9,8 @@ Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/musicbrainzngs-
 
 Summary: Python bindings for the MusicBrainz NGS and the Cover Art Archive webservices
 
+Development: https://github.com/alastair/python-musicbrainzngs
+
 Current build status
 ====================
 

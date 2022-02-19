@@ -11,6 +11,11 @@ Summary: Python bindings for the MusicBrainz NGS and the Cover Art Archive webse
 
 Development: https://github.com/alastair/python-musicbrainzngs
 
+This library implements webservice bindings for the Musicbrainz NGS site, also known as /ws/2 and the Cover Art Archive.
+
+For more information on the musicbrainz webservice see http://wiki.musicbrainz.org/XML_Web_Service.
+
+
 Current build status
 ====================
 

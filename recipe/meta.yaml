@@ -11,7 +11,7 @@ source:
   sha256: ab1c0100fd0b305852e65f2ed4113c6de12e68afd55186987b8ed97e0f98e627
 
 build:
-  number: 2
+  number: 3
   noarch: python
   script: {{ PYTHON }} -m pip install . -vv
 
@@ -36,6 +36,10 @@ about:
   license: BSD-2-Clause AND MIT
   license_file: COPYING
   dev_url: https://github.com/alastair/python-musicbrainzngs
+  description: |
+    This library implements webservice bindings for the Musicbrainz NGS site, also known as /ws/2 and the Cover Art Archive.
+    
+    For more information on the musicbrainz webservice see http://wiki.musicbrainz.org/XML_Web_Service.
 
 extra:
   recipe-maintainers:
